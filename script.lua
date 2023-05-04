@@ -11,4 +11,4 @@ _G.Settings = {
             ["Z"] = 33, -- position Z (settings for antilock) // default "33"
         }
     }
-loadstring(game:HttpGet("https://raw.githubusercontent.com/B6oo6/my-script/main/main.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/B6oo6/AV-AL/main/main.lua"))()
